@@ -200,4 +200,4 @@ admin
 15. @[OhmSuphanat](https://github.com/OhmSuphanat) Feat: Recommend Items
 16. @[OhmSuphanat](https://github.com/OhmSuphanat) Feat: Logout
 
-# Release Tag: v1.0.0
+# Release Tag: v1.0.0 
